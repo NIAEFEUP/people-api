@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "nifeup-people-api",
+	"name": "people-api",
 	"main": "src/index.ts",
 	"compatibility_date": "2026-11-23",
 	"observability": {
